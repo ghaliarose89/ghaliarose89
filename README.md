@@ -1,4 +1,4 @@
-# Hello World, I'm Ghalia! 👋 Nice to virtually meet you! 🙂<br><br><br>
+# Hello, I'm Ghalia! 👋 Nice to virtually meet you! 🙂<br>
 Full Stack Web Developer with an Associate’s Degree and five years professional experience in programming languages teaching. Naturally, curious and always strive to learn new technologies at a fast pace. Known among others for the patience and hard-working with the pursued the perfection of the task.
 
 
