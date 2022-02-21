@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Ghalia 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning coding boot camp
-- 💞️ I’m looking to collaborate on coding boot camp
-- 📫 How to reach me Email/ ghaliarose89@gmail.com
+Hello World, I'm Ghalia! 👋 Nice to virtually meet you! 🙂<br><br><br>
+Full Stack Web Developer with an Associate’s Degree and five years professional experience in programming languages teaching. Naturally, curious and always strive to learn new technologies at a fast pace. Known among others for the patience and hard-working with the pursued the perfection of the task.
 
-<!---
-ghaliarose89/ghaliarose89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+💻 My Tech Stack
+Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL Frameworks & Libraries: React (Hook, Redux), Vue, jQuery, Bootstrap, Materialize, Node.js (Express.js, Inquirer.js, File System, Sequelize), Handlebars.js, Recharts.js, GraphQL/Apollo Tools: MongoDB, MySQL, Sqlite3, Git, GitHub, Command Line, Heroku, Jest, VSCode
+
+⛓ My Links<br>
+LinkedIn: https://www.linkedin.com/in/ghalia-sami-063a6a122/<br>
+Portfolio: https://ghalia-por.herokuapp.com/<br>
+✉️ Get in contact with me<br>
+
+Email: ghaliarose89@gmail.com
